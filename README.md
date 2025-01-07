@@ -1,6 +1,6 @@
 # Upload Zone
 
-[![npm version](https://badge.fury.io/js/upload-zone.svg)](https://badge.fury.io/js/upload-zone)
+[![](https://data.jsdelivr.com/v1/package/gh/xxjapp/upload-zone/badge)](https://www.jsdelivr.com/package/gh/xxjapp/upload-zone)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A lightweight, customizable JavaScript library for handling file uploads with drag and drop support.
@@ -18,14 +18,10 @@ A lightweight, customizable JavaScript library for handling file uploads with dr
 
 ## Installation
 
-```bash
-npm install upload-zone
-```
-
-Or include it directly in your HTML:
+Include it directly in your HTML:
 
 ```html
-<script src="https://unpkg.com/upload-zone@latest/dist/upload-zone.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/xxjapp/upload-zone@0.1.0/upload-zone.min.js"></script>
 ```
 
 ## Usage
