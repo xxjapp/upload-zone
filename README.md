@@ -5,6 +5,8 @@
 
 A lightweight, customizable JavaScript library for handling file uploads with drag and drop support.
 
+![preview.png](images/preview.png)
+
 ## Features
 
 - 🎨 Fully customizable through options
